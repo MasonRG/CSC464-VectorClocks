@@ -13,7 +13,7 @@ The results of two simulations and their respective vector clock history charts 
 ## Simulation 1
 
 #### Output:
-![image sim1 output](https://github.com/MasonRG/CSC464-VectorClocks/blob/master/img/output1.png)
+![image sim1 output](https://github.com/MasonRG/CSC464-VectorClocks/blob/master/img/output14.png)
 
 #### Clock History:
 ![image sim1 clock history](https://github.com/MasonRG/CSC464-VectorClocks/blob/master/img/history1.png)
@@ -27,7 +27,7 @@ Independent otherwise*\
 ## Simulation 2
 
 #### Output:
-![image sim2 output](https://github.com/MasonRG/CSC464-VectorClocks/blob/master/img/output2.png)
+![image sim2 output](https://github.com/MasonRG/CSC464-VectorClocks/blob/master/img/output24.png)
 
 #### Clock History:
 ![image sim2 clock causality](https://github.com/MasonRG/CSC464-VectorClocks/blob/master/img/history2.png)
